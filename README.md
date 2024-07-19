@@ -28,13 +28,13 @@ The Amazon CloudFront distribution is configured with two origins:
 1. Create a new directory, navigate to that directory in a terminal and clone the GitHub repository:
 
     ```bash
-    git clone https://github.com/aws-samples/serverless-patterns
+    git clone git@github.com:bersanf/amazon-cloudfront-s3-restapi-cdk.git
     ```
 
 2. Change directory to the pattern directory its source code folder:
 
     ```bash
-    cd cloudfront-s3-restapi-cdk
+    cd amazon-cloudfront-s3-restapi-cdk
     ```
 
 3. From the command line, use npm to install the development dependencies:
